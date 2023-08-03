@@ -6,6 +6,7 @@ function App() {
     <>
       <Header />
       <main>
+        <h1>Another Title</h1>
         <CourseGoals />
       </main>
     </>
